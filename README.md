@@ -1,9 +1,9 @@
 # Bow to Bert
-Evolution of word vectors from long, sparse, and 1-hot to short, dense, and context sensitive
+Evolution of word vectors from long, sparse, and one-hot to short, dense, and context sensitive
 
 This is the source code to go along with the blog article
 
-[Bow to Bert](http://xplordat.com/2019/07/22/bow-to-bert/)
+[Bow to Bert](http://xplordat.com/2019/09/24/bow-to-bert/)
 
 ![Context sensitive embeddings with BERT](./images/bert-similarity.jpg "Context sensitive embeddings with BERT")
 
@@ -11,7 +11,7 @@ This is the source code to go along with the blog article
 
 ##  Summary
 
-Word vectors have evolved over the years to know the difference between "record the play" vs "play the record". They have evolved from a 1-hot world where every word was orthogonal to every other word, to a place where word vectors morph to suit the context. Slapping a BoW on word vectors is the usual way to build a document vector for tasks such as classification. But BERT does not need a BoW as the vector shooting out of the top [CLS] token is already fine tuned for the specific classification objective...
+Word vectors have evolved over the years to know the difference between "record the play" vs "play the record". They have evolved from a one-hot world where every word was orthogonal to every other word, to a place where word vectors morph to suit the context. Slapping a BoW on word vectors is the usual way to build a document vector for tasks such as classification. But BERT does not need a BoW as the vector shooting out of the top [CLS] token is already fine tuned for the specific classification objective...
 
 ##	Dependencies
 	tensorflow
