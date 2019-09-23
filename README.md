@@ -1,10 +1,9 @@
-# Bow to Bert: One-Hot to Contextual
+# Bow to Bert: 1-Hot to Contextual
 Evolution of word vectors from long, sparse, and 1-hot to short, dense, and context sensitive
 
 This is the source code to go along with the blog article
 
-[Bow to Bert: One-Hot to Contextual](http://xplordat.com/2019/07/22/bow-to-bert-one-hot-to-contextual/)
-
+[Bow to Bert: 1-Hot to Contextual](http://xplordat.com/2019/07/22/bow-to-bert-1-hot-to-contextual/)
 
 ![Context sensitive embeddings with BERT](./images/bert-similarity.jpg "Context sensitive embeddings with BERT")
 
