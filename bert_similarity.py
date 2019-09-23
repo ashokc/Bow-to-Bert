@@ -1,3 +1,4 @@
+# Computr cosine similarity of words in different contexts
 import random as rn
 import numpy as np
 import json
@@ -46,6 +47,10 @@ checkPairs (6, 'subject')
 
 print('\n')
 checkPairs (9, 'key')
+
+#12 play the record
+#13 record the play
+#14 play the game
 
 print('\n')
 checkPairs (12, 'play')
