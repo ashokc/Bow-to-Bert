@@ -3,7 +3,7 @@ Evolution of word vectors from long, sparse, and one-hot to short, dense, and co
 
 This is the source code to go along with the blog article
 
-[Bow to Bert](http://xplordat.com/2019/09/24/bow-to-bert/)
+[Bow to Bert](http://xplordat.com/2019/09/23/bow-to-bert/)
 
 ![Context sensitive embeddings with BERT](./images/bert-similarity.jpg "Context sensitive embeddings with BERT")
 
