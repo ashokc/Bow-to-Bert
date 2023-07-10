@@ -1,4 +1,11 @@
 # Bow to Bert
+
+07/10/2023
+
+NOTE: The code here has been updated to work with current versions of Tensorflow/Pytorch engaged from the transformers module. It is in its own repo at [context-aware-word-vectors](https://github.com/ashokc/context-aware-word-vectors)
+
+==========================================================================
+
 Evolution of word vectors from long, sparse, and one-hot to short, dense, and context sensitive
 
 This is the source code to go along with the blog article
